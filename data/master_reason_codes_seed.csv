@@ -1,0 +1,11 @@
+canonical_code,display_name,category,is_chargeable
+INSUFFICIENT_FUNDS,Insufficient Funds,CUSTOMER_FAULT,Y
+ACCOUNT_CLOSED,Account Closed,CUSTOMER_FAULT,Y
+MANDATE_NOT_REGISTERED,Mandate Not Registered / Inactive,MANDATE_ISSUE,N
+MANDATE_AMOUNT_MISMATCH,Mandate Amount Mismatch,MANDATE_ISSUE,N
+SIGNATURE_MISMATCH,Signature Mismatch,TECHNICAL,N
+TECHNICAL_DECLINE,Technical / System Decline,TECHNICAL,N
+PAYMENT_STOPPED,Payment Stopped by Drawer,CUSTOMER_FAULT,Y
+CHEQUE_AMOUNT_MISMATCH,Amount in Words/Figures Differs,CUSTOMER_FAULT,Y
+CHEQUE_STALE_OR_POSTDATED,Cheque Stale or Post-Dated,TECHNICAL,N
+UNMAPPED,Unmapped Bank Code (Manual Review),TECHNICAL,N

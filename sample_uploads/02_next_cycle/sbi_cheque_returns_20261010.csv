@@ -1,0 +1,6 @@
+ChequeNumber,DraweeAccountNo,PayeeName,Amount,ReturnCode,ReturnReasonText,PresentationDate,ReturnDate
+000901,20345678911,Kiran Bedi,18000.00,01,Funds Insufficient,2026-10-10,2026-10-12
+000902,20345678912,Suresh Raina,7500.00,03,Payment Stopped by Drawer,2026-10-10,2026-10-12
+000903,20345678913,Anita Kulkarni,3200.00,07,Signature Differs,2026-10-10,2026-10-12
+000901,20345678911,Kiran Bedi,18000.00,01,Funds Insufficient,2026-10-14,2026-10-15
+000901,20345678911,Kiran Bedi,18000.00,01,Funds Insufficient,2026-10-19,2026-10-20

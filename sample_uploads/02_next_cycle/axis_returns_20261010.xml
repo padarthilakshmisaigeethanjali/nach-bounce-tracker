@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<NACHReturnFile bank="AXIS" cycleDate="2026-10-10">
+  <ReturnRecord>
+    <UMRN>UTIB0005544332301</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-10-10</DueDate>
+    <ReturnDate>2026-10-12</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91020055443311</AccountNumber>
+    <CustomerName>Imran Sheikh</CustomerName>
+    <Amount>5400.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0005544332302</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-10-10</DueDate>
+    <ReturnDate>2026-10-12</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91020055443312</AccountNumber>
+    <CustomerName>Pooja Desai</CustomerName>
+    <Amount>1800.00</Amount>
+  </ReturnRecord>
+</NACHReturnFile>

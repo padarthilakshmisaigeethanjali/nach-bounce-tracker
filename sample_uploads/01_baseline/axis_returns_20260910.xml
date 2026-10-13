@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<NACHReturnFile bank="AXIS" cycleDate="2026-09-10">
+  <ReturnRecord>
+    <UMRN>UTIB0005544332211</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-10</DueDate>
+    <ReturnDate>2026-09-11</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91020055443301</AccountNumber>
+    <CustomerName>Farhan Ali</CustomerName>
+    <Amount>12000.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0005544332212</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-10</DueDate>
+    <ReturnDate>2026-09-11</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91020055443302</AccountNumber>
+    <CustomerName>Priya Menon</CustomerName>
+    <Amount>750.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0005544332211</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-10</DueDate>
+    <ReturnDate>2026-09-15</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91020055443301</AccountNumber>
+    <CustomerName>Farhan Ali</CustomerName>
+    <Amount>12000.00</Amount>
+  </ReturnRecord>
+</NACHReturnFile>

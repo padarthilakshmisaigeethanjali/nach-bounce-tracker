@@ -1,0 +1,2 @@
+UMRN,PresentationSeqNo,DueDate,ReturnDate,ReturnCode,ReturnReasonText,AccountNo,CustomerName,Amount
+HDFC0001234567891,3,2026-09-10,2026-09-18,03,Insufficient funds,50100123456701,Ramesh Kumar,4500.00

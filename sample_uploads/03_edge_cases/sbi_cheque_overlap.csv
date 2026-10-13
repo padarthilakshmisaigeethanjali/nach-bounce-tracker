@@ -1,0 +1,4 @@
+ChequeNumber,DraweeAccountNo,PayeeName,Amount,ReturnCode,ReturnReasonText,PresentationDate,ReturnDate
+000123,20345678901,Rohit Verma,15000.00,01,Funds Insufficient,2026-09-10,2026-09-11
+000123,20345678901,Rohit Verma,15000.00,01,Funds Insufficient,2026-09-20,2026-09-21
+001001,20345678921,Neha Saxena,6400.00,02,Account Closed,2026-09-20,2026-09-21

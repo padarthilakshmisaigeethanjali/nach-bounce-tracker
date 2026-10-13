@@ -1,0 +1,4 @@
+MandateUMRN|PresentmentNo|CollectionDate|ReturnDate|RtnCode|RtnDesc|CustAccountNo|CustName|TxnAmount
+ICIC0009876543301|1|2026-10-10|2026-10-12|IF02|Funds Insufficient in account|60200987654311|Tarun Malhotra|12500.00
+ICIC0009876543302|1|2026-10-10|2026-10-12|MN14|Mandate Not Active / Not Found|60200987654312|Geeta Pandey|2750.00
+ICIC0009876543301|2|2026-10-10|2026-10-15|IF02|Funds Insufficient in account|60200987654311|Tarun Malhotra|12500.00

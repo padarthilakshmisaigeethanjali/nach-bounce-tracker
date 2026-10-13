@@ -1,0 +1,6 @@
+MandateUMRN|PresentmentNo|CollectionDate|ReturnDate|RtnCode|RtnDesc|CustAccountNo|CustName|TxnAmount
+ICIC0009876543211|1|2026-09-10|2026-09-11|IF02|Funds Insufficient in account|60200987654301|Vikram Reddy|8999.50
+ICIC0009876543211|2|2026-09-10|2026-09-13|IF02|Funds Insufficient in account|60200987654301|Vikram Reddy|8999.50
+ICIC0009876543211|3|2026-09-10|2026-09-16|IF02|Funds Insufficient in account|60200987654301|Vikram Reddy|8999.50
+ICIC0009876543212|1|2026-09-10|2026-09-11|MN14|Mandate Not Active / Not Found|60200987654302|Anjali Nair|1500.00
+ICIC0009876543213|1|2026-09-10|2026-09-11|AC09|Account Closed by customer|60200987654303|Kavita Iyer|6600.00

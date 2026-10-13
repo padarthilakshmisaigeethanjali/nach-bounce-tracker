@@ -1,0 +1,17 @@
+sponsor_bank,raw_code,raw_description,canonical_code
+HDFC,01,Account closed,ACCOUNT_CLOSED
+HDFC,03,Insufficient funds,INSUFFICIENT_FUNDS
+HDFC,21,Invalid UMRN / mandate not active,MANDATE_NOT_REGISTERED
+HDFC,27,Mandate amount mismatch,MANDATE_AMOUNT_MISMATCH
+ICICI,IF02,Funds Insufficient in account,INSUFFICIENT_FUNDS
+ICICI,AC09,Account Closed by customer,ACCOUNT_CLOSED
+ICICI,MN14,Mandate Not Active / Not Found,MANDATE_NOT_REGISTERED
+AXIS,FREE_TEXT:insufficient balance,Insufficient balance in customer account,INSUFFICIENT_FUNDS
+AXIS,FREE_TEXT:account is closed,Customer account is closed / inoperative,ACCOUNT_CLOSED
+AXIS,FREE_TEXT:mandate reference,Mandate reference not found or expired,MANDATE_NOT_REGISTERED
+SBI,01,Funds Insufficient,INSUFFICIENT_FUNDS
+SBI,02,Account Closed,ACCOUNT_CLOSED
+SBI,03,Payment Stopped by Drawer,PAYMENT_STOPPED
+SBI,07,Signature Differs,SIGNATURE_MISMATCH
+SBI,34,Amount in Words and Figures Differs,CHEQUE_AMOUNT_MISMATCH
+SBI,35,Cheque Post Dated / Stale,CHEQUE_STALE_OR_POSTDATED

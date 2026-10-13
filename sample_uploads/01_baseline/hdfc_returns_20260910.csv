@@ -1,0 +1,5 @@
+UMRN,PresentationSeqNo,DueDate,ReturnDate,ReturnCode,ReturnReasonText,AccountNo,CustomerName,Amount
+HDFC0001234567891,1,2026-09-10,2026-09-11,03,Insufficient funds,50100123456701,Ramesh Kumar,4500.00
+HDFC0001234567891,2,2026-09-10,2026-09-14,03,Insufficient funds,50100123456701,Ramesh Kumar,4500.00
+HDFC0001234567892,1,2026-09-10,2026-09-11,21,Invalid UMRN / mandate not active,50100123456702,Sunita Sharma,2200.00
+HDFC0001234567893,1,2026-09-10,2026-09-11,01,Account closed,50100123456703,Deepak Joshi,3300.00

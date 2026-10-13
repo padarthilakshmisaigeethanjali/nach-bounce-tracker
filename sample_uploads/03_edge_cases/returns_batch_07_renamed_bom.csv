@@ -1,0 +1,2 @@
+﻿UMRN,PresentationSeqNo,DueDate,ReturnDate,ReturnCode,ReturnReasonText,AccountNo,CustomerName,Amount
+HDFC0001234567911,1,2026-10-10,2026-10-12,03,Insufficient funds,50100123456721,Rajiv Menon,4100.00

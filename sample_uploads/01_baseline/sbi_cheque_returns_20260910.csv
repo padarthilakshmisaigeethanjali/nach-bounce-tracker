@@ -1,0 +1,7 @@
+ChequeNumber,DraweeAccountNo,PayeeName,Amount,ReturnCode,ReturnReasonText,PresentationDate,ReturnDate
+000123,20345678901,Rohit Verma,15000.00,01,Funds Insufficient,2026-09-10,2026-09-11
+000456,20345678902,Meena Pillai,8000.00,07,Signature Differs,2026-09-10,2026-09-11
+000789,20345678903,Arjun Nambiar,22000.00,02,Account Closed,2026-09-10,2026-09-11
+000321,20345678904,Divya Rao,5000.00,34,Amount in Words and Figures Differs,2026-09-10,2026-09-11
+000654,20345678905,Sanjay Gupta,12000.00,35,Cheque Post Dated / Stale,2026-09-10,2026-09-11
+000123,20345678901,Rohit Verma,15000.00,01,Funds Insufficient,2026-09-13,2026-09-14

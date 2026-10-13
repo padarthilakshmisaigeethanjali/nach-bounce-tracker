@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NACH &amp; Cheque Return Tracker</title>
+  <link rel="stylesheet" href="/static/styles.css">
+  <meta name="description" content="Dashboard for normalising NACH and cheque return files, suppressing re-presentations and raising bounce charges (demo with mock data).">
+</head>
+<body>
+<div class="app-shell">
+  <aside class="sidebar">
+    <div class="brand">
+      <div class="brand-mark">N</div>
+      <div><strong>ReturnOps</strong><span>Collections control</span></div>
+    </div>
+    <nav>
+      <a class="active" href="#overview">Overview</a>
+      <a href="#upload">Upload Data</a>
+      <a href="#events">Bounce Events</a>
+      <a href="#chargesPanel">Charges</a>
+      <a href="#pipeline">Pipeline</a>
+    </nav>
+    <div class="side-note">
+      <span class="status-dot" id="statusDot"></span>
+      <span id="statusText">Connecting…</span>
+      <small>SQLite · mock data only</small>
+    </div>
+  </aside>
+
+  <main class="main">
+    <header class="topbar">
+      <div>
+        <div class="eyebrow">Operations dashboard</div>
+        <h1>NACH & Cheque Return Tracker</h1>
+        <p>Normalize bank return files, suppress re-presentations, and control bounce charges.</p>
+      </div>
+      <button class="refresh" id="refreshBtn" type="button">↻ Refresh</button>
+    </header>
+
+    <section id="upload" class="panel upload-panel">
+      <div class="panel-head wrap">
+        <div><h2>Upload return files</h2><p>Drop one or more bank return files here (demo data only — do not upload real customer files). The API detects the format, normalizes reason codes, deduplicates re-presentations, and refreshes the results.</p></div>
+        <div class="upload-actions"><button class="secondary" id="clearFiles" type="button">Clear</button><button class="primary" id="uploadBtn" type="button">Upload & Process</button></div>
+      </div>
+      <div id="dropZone" class="drop-zone" tabindex="0" role="button" aria-label="Choose files to upload">
+        <input id="fileInput" type="file" multiple accept=".csv,.txt,.xml">
+        <div class="upload-icon">↑</div>
+        <strong>Drag & drop files here</strong>
+        <span>or click to choose CSV, TXT, or XML files</span>
+        <small>Supported: HDFC CSV · ICICI pipe TXT/CSV · AXIS XML · SBI cheque CSV · max 20 MB · try the files in <code>sample_uploads/</code></small>
+      </div>
+      <div id="fileList" class="file-list"></div>
+      <div id="uploadResult" class="upload-result hidden" role="status"></div>
+    </section>
+
+    <section id="overview" class="kpis">
+      <article class="kpi"><span>Raw returns</span><strong id="raw">—</strong><small>Rows received from banks</small></article>
+      <article class="kpi"><span>Unique bounce events</span><strong id="events">—</strong><small id="eventsNote">After deduplication</small></article>
+      <article class="kpi"><span>Duplicates suppressed</span><strong id="duplicates">—</strong><small>Re-presentations not double charged</small></article>
+      <article class="kpi accent"><span>Charges raised</span><strong id="chargeCount">—</strong><small id="chargeTotal">₹0</small></article>
+    </section>
+
+    <section class="grid two">
+      <article class="panel">
+        <div class="panel-head"><div><h2>Instrument mix</h2><p>Unique bounce events by instrument</p></div></div>
+        <div id="instrumentChart" class="bar-list"></div>
+      </article>
+      <article class="panel">
+        <div class="panel-head"><div><h2>Top return reasons</h2><p>Canonical reasons after bank-code normalization</p></div></div>
+        <div id="reasonChart" class="bar-list"></div>
+      </article>
+    </section>
+
+    <section class="panel" id="events">
+      <div class="panel-head wrap">
+        <div><h2>Bounce events</h2><p>One row per deduplicated mandate or cheque</p></div>
+        <div class="filters">
+          <input id="search" type="search" placeholder="Search customer, UMRN, cheque or account" aria-label="Search bounce events">
+          <select id="instrument" aria-label="Filter by instrument"><option value="">All instruments</option><option>NACH</option><option>CHEQUE</option></select>
+          <select id="bank" aria-label="Filter by bank"><option value="">All banks</option></select>
+          <select id="reason" aria-label="Filter by reason"><option value="">All reasons</option></select>
+        </div>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>Customer</th><th>Type</th><th>Reference</th><th>Bank</th><th>Reason</th><th>Amount</th><th>Attempts</th><th>Charge</th></tr></thead>
+          <tbody id="eventRows"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel" id="uploads">
+      <div class="panel-head"><div><h2>Recent uploads</h2><p>REST API import history and processing status</p></div></div>
+      <div class="table-wrap"><table><thead><tr><th>File</th><th>Bank</th><th>Type</th><th>Rows</th><th>Status</th><th>Uploaded</th></tr></thead><tbody id="uploadRows"></tbody></table></div>
+    </section>
+
+    <section class="panel" id="chargesPanel">
+      <div class="panel-head"><div><h2>Charges &amp; customer notices</h2><p>One charge per chargeable bounce event, however many times it was presented</p></div></div>
+      <div class="table-wrap"><table><thead><tr><th>Customer</th><th>Type</th><th>Reference</th><th>Reason</th><th>Charge</th><th>Notice</th></tr></thead><tbody id="chargeRows"></tbody></table></div>
+    </section>
+
+    <section class="grid two">
+      <article class="panel">
+        <div class="panel-head"><div><h2>Bank distribution</h2><p>Where return volume is coming from</p></div></div>
+        <div id="bankChart" class="bar-list"></div>
+      </article>
+      <article class="panel" id="pipeline">
+        <div class="panel-head"><div><h2>Processing pipeline</h2><p>What the backend is doing with each file</p></div></div>
+        <div class="pipeline">
+          <div><b>01</b><span>Parse</span><small>CSV · pipe TXT · XML</small></div>
+          <div><b>02</b><span>Normalize</span><small>Bank codes → canonical reasons</small></div>
+          <div><b>03</b><span>Deduplicate</span><small>UMRN+date or cheque+account</small></div>
+          <div><b>04</b><span>Charge</span><small>One charge per chargeable event</small></div>
+        </div>
+      </article>
+    </section>
+  </main>
+</div>
+
+<div id="drawerBackdrop" class="backdrop hidden"></div>
+<aside id="drawer" class="drawer" aria-label="Bounce event details">
+  <button class="close" id="drawerClose" type="button" aria-label="Close details">×</button>
+  <div id="drawerContent"></div>
+</aside>
+<script src="/static/app.js"></script>
+</body>
+</html>

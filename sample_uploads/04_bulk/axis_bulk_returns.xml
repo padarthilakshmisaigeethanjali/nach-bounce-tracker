@@ -1,0 +1,1353 @@
+<?xml version='1.0' encoding='utf-8'?>
+<NACHReturnFile bank="AXIS" cycleDate="2026-09-17">
+  <ReturnRecord>
+    <UMRN>UTIB0004000000000</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000000</AccountNumber>
+    <CustomerName>Omkar Banerjee</CustomerName>
+    <Amount>26250.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000001</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000001</AccountNumber>
+    <CustomerName>Mira Banerjee</CustomerName>
+    <Amount>600.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000002</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000002</AccountNumber>
+    <CustomerName>Vidya Nair</CustomerName>
+    <Amount>6500.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000002</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-22</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000002</AccountNumber>
+    <CustomerName>Vidya Nair</CustomerName>
+    <Amount>6500.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000002</UMRN>
+    <PresentationAttempt>3</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-24</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000002</AccountNumber>
+    <CustomerName>Vidya Nair</CustomerName>
+    <Amount>6500.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000003</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000003</AccountNumber>
+    <CustomerName>Farhan Chopra</CustomerName>
+    <Amount>23800.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000004</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000004</AccountNumber>
+    <CustomerName>Naveen Gill</CustomerName>
+    <Amount>29100.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000005</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000005</AccountNumber>
+    <CustomerName>Anika Agarwal</CustomerName>
+    <Amount>19150.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000006</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000006</AccountNumber>
+    <CustomerName>Bhavya Banerjee</CustomerName>
+    <Amount>2050.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000006</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-22</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000006</AccountNumber>
+    <CustomerName>Bhavya Banerjee</CustomerName>
+    <Amount>2050.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000006</UMRN>
+    <PresentationAttempt>3</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-24</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000006</AccountNumber>
+    <CustomerName>Bhavya Banerjee</CustomerName>
+    <Amount>2050.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000007</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000007</AccountNumber>
+    <CustomerName>Vidya Oberoi</CustomerName>
+    <Amount>3250.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000007</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-22</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000007</AccountNumber>
+    <CustomerName>Vidya Oberoi</CustomerName>
+    <Amount>3250.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000007</UMRN>
+    <PresentationAttempt>3</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-24</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000007</AccountNumber>
+    <CustomerName>Vidya Oberoi</CustomerName>
+    <Amount>3250.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000008</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000008</AccountNumber>
+    <CustomerName>Sameer Rao</CustomerName>
+    <Amount>10600.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000009</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000009</AccountNumber>
+    <CustomerName>Anika Mehta</CustomerName>
+    <Amount>18700.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000010</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000010</AccountNumber>
+    <CustomerName>Naveen Rao</CustomerName>
+    <Amount>11600.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000011</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000011</AccountNumber>
+    <CustomerName>Omkar Chopra</CustomerName>
+    <Amount>14400.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000012</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000012</AccountNumber>
+    <CustomerName>Rhea Sinha</CustomerName>
+    <Amount>37250.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000013</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000013</AccountNumber>
+    <CustomerName>Tanvi Nair</CustomerName>
+    <Amount>18400.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000014</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000014</AccountNumber>
+    <CustomerName>Mira Chopra</CustomerName>
+    <Amount>18850.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000015</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000015</AccountNumber>
+    <CustomerName>Farhan Sinha</CustomerName>
+    <Amount>33100.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000016</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000016</AccountNumber>
+    <CustomerName>Rhea Lal</CustomerName>
+    <Amount>4300.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000016</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-22</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000016</AccountNumber>
+    <CustomerName>Rhea Lal</CustomerName>
+    <Amount>4300.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000017</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000017</AccountNumber>
+    <CustomerName>Diya Mehta</CustomerName>
+    <Amount>19200.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000018</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000018</AccountNumber>
+    <CustomerName>Yash Gill</CustomerName>
+    <Amount>6900.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000019</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000019</AccountNumber>
+    <CustomerName>Diya Sinha</CustomerName>
+    <Amount>27750.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000020</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000020</AccountNumber>
+    <CustomerName>Lokesh Varma</CustomerName>
+    <Amount>6900.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000021</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000021</AccountNumber>
+    <CustomerName>Omkar Khanna</CustomerName>
+    <Amount>30150.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000022</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000022</AccountNumber>
+    <CustomerName>Diya Khanna</CustomerName>
+    <Amount>26350.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000023</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000023</AccountNumber>
+    <CustomerName>Tanvi Lal</CustomerName>
+    <Amount>34250.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000023</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-22</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000023</AccountNumber>
+    <CustomerName>Tanvi Lal</CustomerName>
+    <Amount>34250.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000023</UMRN>
+    <PresentationAttempt>3</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-24</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000023</AccountNumber>
+    <CustomerName>Tanvi Lal</CustomerName>
+    <Amount>34250.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000024</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000024</AccountNumber>
+    <CustomerName>Vidya Chopra</CustomerName>
+    <Amount>32300.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000025</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000025</AccountNumber>
+    <CustomerName>Preeti Fernandes</CustomerName>
+    <Amount>31200.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000026</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000026</AccountNumber>
+    <CustomerName>Chirag Agarwal</CustomerName>
+    <Amount>16750.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000026</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-22</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000026</AccountNumber>
+    <CustomerName>Chirag Agarwal</CustomerName>
+    <Amount>16750.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000027</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000027</AccountNumber>
+    <CustomerName>Preeti Thakur</CustomerName>
+    <Amount>36350.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000028</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000028</AccountNumber>
+    <CustomerName>Diya Agarwal</CustomerName>
+    <Amount>9100.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000029</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000029</AccountNumber>
+    <CustomerName>Diya Agarwal</CustomerName>
+    <Amount>15500.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000030</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000030</AccountNumber>
+    <CustomerName>Chirag Lal</CustomerName>
+    <Amount>9600.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000031</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000031</AccountNumber>
+    <CustomerName>Lokesh Joshi</CustomerName>
+    <Amount>29550.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000032</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000032</AccountNumber>
+    <CustomerName>Mira Mehta</CustomerName>
+    <Amount>8100.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000033</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000033</AccountNumber>
+    <CustomerName>Qasim Dutta</CustomerName>
+    <Amount>6550.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000033</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-22</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000033</AccountNumber>
+    <CustomerName>Qasim Dutta</CustomerName>
+    <Amount>6550.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000034</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000034</AccountNumber>
+    <CustomerName>Sameer Oberoi</CustomerName>
+    <Amount>31850.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000034</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-22</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000034</AccountNumber>
+    <CustomerName>Sameer Oberoi</CustomerName>
+    <Amount>31850.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000035</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000035</AccountNumber>
+    <CustomerName>Naveen Rao</CustomerName>
+    <Amount>14750.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000035</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-22</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000035</AccountNumber>
+    <CustomerName>Naveen Rao</CustomerName>
+    <Amount>14750.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000035</UMRN>
+    <PresentationAttempt>3</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-24</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000035</AccountNumber>
+    <CustomerName>Naveen Rao</CustomerName>
+    <Amount>14750.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000036</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000036</AccountNumber>
+    <CustomerName>Rhea Chopra</CustomerName>
+    <Amount>39950.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000036</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-22</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000036</AccountNumber>
+    <CustomerName>Rhea Chopra</CustomerName>
+    <Amount>39950.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000037</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000037</AccountNumber>
+    <CustomerName>Lokesh Oberoi</CustomerName>
+    <Amount>39450.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000038</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000038</AccountNumber>
+    <CustomerName>Naveen Agarwal</CustomerName>
+    <Amount>32100.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000039</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000039</AccountNumber>
+    <CustomerName>Isha Chopra</CustomerName>
+    <Amount>25850.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000040</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000040</AccountNumber>
+    <CustomerName>Preeti Oberoi</CustomerName>
+    <Amount>28450.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000041</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000041</AccountNumber>
+    <CustomerName>Lokesh Mehta</CustomerName>
+    <Amount>24350.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000042</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000042</AccountNumber>
+    <CustomerName>Yash Joshi</CustomerName>
+    <Amount>30800.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000043</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000043</AccountNumber>
+    <CustomerName>Kavya Khanna</CustomerName>
+    <Amount>28600.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000044</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000044</AccountNumber>
+    <CustomerName>Kavya Gill</CustomerName>
+    <Amount>21450.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000045</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000045</AccountNumber>
+    <CustomerName>Vidya Mehta</CustomerName>
+    <Amount>13300.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000046</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000046</AccountNumber>
+    <CustomerName>Naveen Dutta</CustomerName>
+    <Amount>20000.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000046</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-22</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000046</AccountNumber>
+    <CustomerName>Naveen Dutta</CustomerName>
+    <Amount>20000.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000047</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000047</AccountNumber>
+    <CustomerName>Lokesh Khanna</CustomerName>
+    <Amount>23900.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000048</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000048</AccountNumber>
+    <CustomerName>Naveen Gill</CustomerName>
+    <Amount>2750.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000049</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000049</AccountNumber>
+    <CustomerName>Rhea Mehta</CustomerName>
+    <Amount>12650.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000050</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000050</AccountNumber>
+    <CustomerName>Kavya Banerjee</CustomerName>
+    <Amount>6150.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000051</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000051</AccountNumber>
+    <CustomerName>Uday Lal</CustomerName>
+    <Amount>39050.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000052</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000052</AccountNumber>
+    <CustomerName>Hemant Chopra</CustomerName>
+    <Amount>37650.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000053</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000053</AccountNumber>
+    <CustomerName>Mira Rao</CustomerName>
+    <Amount>19450.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000054</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000054</AccountNumber>
+    <CustomerName>Naveen Banerjee</CustomerName>
+    <Amount>15750.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000054</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-22</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000054</AccountNumber>
+    <CustomerName>Naveen Banerjee</CustomerName>
+    <Amount>15750.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000054</UMRN>
+    <PresentationAttempt>3</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-24</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000054</AccountNumber>
+    <CustomerName>Naveen Banerjee</CustomerName>
+    <Amount>15750.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000055</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000055</AccountNumber>
+    <CustomerName>Hemant Wadhwa</CustomerName>
+    <Amount>33500.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000056</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000056</AccountNumber>
+    <CustomerName>Bhavya Dutta</CustomerName>
+    <Amount>7250.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000057</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000057</AccountNumber>
+    <CustomerName>Lokesh Fernandes</CustomerName>
+    <Amount>28000.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000058</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000058</AccountNumber>
+    <CustomerName>Naveen Dutta</CustomerName>
+    <Amount>30550.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000059</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000059</AccountNumber>
+    <CustomerName>Sameer Patil</CustomerName>
+    <Amount>35500.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000060</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000060</AccountNumber>
+    <CustomerName>Zoya Wadhwa</CustomerName>
+    <Amount>18200.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000061</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000061</AccountNumber>
+    <CustomerName>Chirag Sinha</CustomerName>
+    <Amount>5200.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000061</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-22</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000061</AccountNumber>
+    <CustomerName>Chirag Sinha</CustomerName>
+    <Amount>5200.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000061</UMRN>
+    <PresentationAttempt>3</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-24</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000061</AccountNumber>
+    <CustomerName>Chirag Sinha</CustomerName>
+    <Amount>5200.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000062</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000062</AccountNumber>
+    <CustomerName>Sameer Banerjee</CustomerName>
+    <Amount>29200.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000063</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000063</AccountNumber>
+    <CustomerName>Farhan Patil</CustomerName>
+    <Amount>8250.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000064</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000064</AccountNumber>
+    <CustomerName>Esha Rao</CustomerName>
+    <Amount>6500.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000065</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000065</AccountNumber>
+    <CustomerName>Jatin Rao</CustomerName>
+    <Amount>20100.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000065</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-22</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000065</AccountNumber>
+    <CustomerName>Jatin Rao</CustomerName>
+    <Amount>20100.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000066</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000066</AccountNumber>
+    <CustomerName>Aarav Thakur</CustomerName>
+    <Amount>34400.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000066</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-22</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000066</AccountNumber>
+    <CustomerName>Aarav Thakur</CustomerName>
+    <Amount>34400.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000066</UMRN>
+    <PresentationAttempt>3</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-24</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000066</AccountNumber>
+    <CustomerName>Aarav Thakur</CustomerName>
+    <Amount>34400.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000067</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000067</AccountNumber>
+    <CustomerName>Omkar Varma</CustomerName>
+    <Amount>22900.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000067</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-22</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000067</AccountNumber>
+    <CustomerName>Omkar Varma</CustomerName>
+    <Amount>22900.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000067</UMRN>
+    <PresentationAttempt>3</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-24</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000067</AccountNumber>
+    <CustomerName>Omkar Varma</CustomerName>
+    <Amount>22900.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000068</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000068</AccountNumber>
+    <CustomerName>Zoya Sinha</CustomerName>
+    <Amount>32100.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000069</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000069</AccountNumber>
+    <CustomerName>Omkar Varma</CustomerName>
+    <Amount>10650.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000070</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000070</AccountNumber>
+    <CustomerName>Naveen Varma</CustomerName>
+    <Amount>11700.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000071</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000071</AccountNumber>
+    <CustomerName>Zoya Banerjee</CustomerName>
+    <Amount>19000.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000071</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-22</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000071</AccountNumber>
+    <CustomerName>Zoya Banerjee</CustomerName>
+    <Amount>19000.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000072</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000072</AccountNumber>
+    <CustomerName>Jatin Hegde</CustomerName>
+    <Amount>10950.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000073</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000073</AccountNumber>
+    <CustomerName>Anika Oberoi</CustomerName>
+    <Amount>15350.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000074</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000074</AccountNumber>
+    <CustomerName>Isha Chopra</CustomerName>
+    <Amount>16300.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000074</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-22</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000074</AccountNumber>
+    <CustomerName>Isha Chopra</CustomerName>
+    <Amount>16300.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000074</UMRN>
+    <PresentationAttempt>3</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-24</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000074</AccountNumber>
+    <CustomerName>Isha Chopra</CustomerName>
+    <Amount>16300.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000075</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000075</AccountNumber>
+    <CustomerName>Preeti Dutta</CustomerName>
+    <Amount>15250.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000075</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-22</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000075</AccountNumber>
+    <CustomerName>Preeti Dutta</CustomerName>
+    <Amount>15250.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000075</UMRN>
+    <PresentationAttempt>3</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-24</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000075</AccountNumber>
+    <CustomerName>Preeti Dutta</CustomerName>
+    <Amount>15250.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000076</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000076</AccountNumber>
+    <CustomerName>Hemant Wadhwa</CustomerName>
+    <Amount>29850.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000077</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000077</AccountNumber>
+    <CustomerName>Chirag Khanna</CustomerName>
+    <Amount>30800.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000078</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000078</AccountNumber>
+    <CustomerName>Anika Fernandes</CustomerName>
+    <Amount>6050.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000079</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000079</AccountNumber>
+    <CustomerName>Naveen Hegde</CustomerName>
+    <Amount>32150.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000080</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000080</AccountNumber>
+    <CustomerName>Uday Fernandes</CustomerName>
+    <Amount>8450.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000081</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000081</AccountNumber>
+    <CustomerName>Yash Wadhwa</CustomerName>
+    <Amount>11150.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000082</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000082</AccountNumber>
+    <CustomerName>Zoya Patil</CustomerName>
+    <Amount>20700.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000082</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-22</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000082</AccountNumber>
+    <CustomerName>Zoya Patil</CustomerName>
+    <Amount>20700.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000082</UMRN>
+    <PresentationAttempt>3</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-24</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000082</AccountNumber>
+    <CustomerName>Zoya Patil</CustomerName>
+    <Amount>20700.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000083</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000083</AccountNumber>
+    <CustomerName>Farhan Sinha</CustomerName>
+    <Amount>18200.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000084</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000084</AccountNumber>
+    <CustomerName>Gauri Sinha</CustomerName>
+    <Amount>12900.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000085</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000085</AccountNumber>
+    <CustomerName>Sameer Gill</CustomerName>
+    <Amount>1950.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000086</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000086</AccountNumber>
+    <CustomerName>Naveen Khanna</CustomerName>
+    <Amount>26450.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000086</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-22</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000086</AccountNumber>
+    <CustomerName>Naveen Khanna</CustomerName>
+    <Amount>26450.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000086</UMRN>
+    <PresentationAttempt>3</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-24</ReturnDate>
+    <ReasonText>Insufficient balance in customer account</ReasonText>
+    <AccountNumber>91040000000086</AccountNumber>
+    <CustomerName>Naveen Khanna</CustomerName>
+    <Amount>26450.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000087</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000087</AccountNumber>
+    <CustomerName>Omkar Sinha</CustomerName>
+    <Amount>30150.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000088</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000088</AccountNumber>
+    <CustomerName>Hemant Dutta</CustomerName>
+    <Amount>39850.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000089</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000089</AccountNumber>
+    <CustomerName>Esha Patil</CustomerName>
+    <Amount>14300.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000090</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000090</AccountNumber>
+    <CustomerName>Bhavya Agarwal</CustomerName>
+    <Amount>7400.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000091</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000091</AccountNumber>
+    <CustomerName>Vidya Oberoi</CustomerName>
+    <Amount>12800.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000092</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000092</AccountNumber>
+    <CustomerName>Jatin Thakur</CustomerName>
+    <Amount>16200.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000092</UMRN>
+    <PresentationAttempt>2</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-22</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000092</AccountNumber>
+    <CustomerName>Jatin Thakur</CustomerName>
+    <Amount>16200.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000093</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000093</AccountNumber>
+    <CustomerName>Kavya Banerjee</CustomerName>
+    <Amount>26250.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000094</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000094</AccountNumber>
+    <CustomerName>Aarav Oberoi</CustomerName>
+    <Amount>37400.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000095</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Mandate reference not found or expired</ReasonText>
+    <AccountNumber>91040000000095</AccountNumber>
+    <CustomerName>Anika Banerjee</CustomerName>
+    <Amount>31400.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000096</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Destination bank technical error</ReasonText>
+    <AccountNumber>91040000000096</AccountNumber>
+    <CustomerName>Isha Khanna</CustomerName>
+    <Amount>19600.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000097</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000097</AccountNumber>
+    <CustomerName>Isha Hegde</CustomerName>
+    <Amount>22000.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000098</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000098</AccountNumber>
+    <CustomerName>Qasim Mehta</CustomerName>
+    <Amount>15100.00</Amount>
+  </ReturnRecord>
+  <ReturnRecord>
+    <UMRN>UTIB0004000000099</UMRN>
+    <PresentationAttempt>1</PresentationAttempt>
+    <DueDate>2026-09-17</DueDate>
+    <ReturnDate>2026-09-20</ReturnDate>
+    <ReasonText>Customer account is closed / inoperative</ReasonText>
+    <AccountNumber>91040000000099</AccountNumber>
+    <CustomerName>Sameer Hegde</CustomerName>
+    <Amount>29300.00</Amount>
+  </ReturnRecord>
+</NACHReturnFile>

@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!DOCTYPE NACHReturnFile [<!ENTITY a "AAAAAAAAAA"><!ENTITY b "&a;&a;&a;&a;&a;&a;&a;&a;">]>
+<NACHReturnFile bank="AXIS"><ReturnRecord><UMRN>&b;</UMRN><ReasonText>&b;</ReasonText></ReturnRecord></NACHReturnFile>

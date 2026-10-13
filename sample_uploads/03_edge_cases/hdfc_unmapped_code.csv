@@ -1,0 +1,3 @@
+UMRN,PresentationSeqNo,DueDate,ReturnDate,ReturnCode,ReturnReasonText,AccountNo,CustomerName,Amount
+HDFC0001234567921,1,2026-10-10,2026-10-12,99,Unknown processing error,50100123456731,Fatima Qureshi,2300.00
+HDFC0001234567922,1,2026-10-10,2026-10-12,03,Insufficient funds,50100123456732,Gopal Iyer,3900.00
